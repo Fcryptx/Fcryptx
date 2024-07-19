@@ -8,9 +8,8 @@ Welcome to my GitHub profile! I'm a passionate learner who enjoys diving into va
 
 ## Technologies I'm interested in
 
-- Web Development: Particularly frontend development using frameworks like Bootstrap and JavaScript.
-- Linux: Enthusiast and interested in everything Linux, including cybersecurity, networking, and system administration.
-
+- Web Development: Particularly frontend development using frameworks like **Bootstrap** and **JavaScript**.
+- **Linux**: Enthusiast and interested in everything **Linux**, including **cybersecurity**, **networking**, and system administration.
 
 ## Connect with me
 
