@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate learner who enjoys diving into va
 ## Featured Projects
 
 - **[Password Generator](https://fcryptx.github.io/password-generator/)**: A simple password generator.
-
+- **[Personal Blog](https://fcryptx.github.io/fcryptx-blog/)**: My personal blog.
 ## Technologies I'm interested in
 
 - Web Development: Particularly frontend development using frameworks like **Bootstrap** and **JavaScript**.
